@@ -3005,6 +3005,11 @@
         "name": "Been Verified",
         "type": "url",
         "url": "https://www.beenverified.com/"
+      },
+      {
+        "name": "goFindWho",
+        "type": "url",
+        "url": "https://gofindwho.com/"
       }],
       "name": "General People Search",
       "type": "folder"
